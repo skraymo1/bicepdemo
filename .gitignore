@@ -1,0 +1,5 @@
+infra/*.json
+!infra/main.parameters.json
+infra/modules/*.json
+*.local.bicepparam
+.azure/

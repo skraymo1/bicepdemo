@@ -1,0 +1,5 @@
+name: bicepdemo
+infra:
+  provider: bicep
+  path: infra
+services: {}
