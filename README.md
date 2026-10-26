@@ -7,6 +7,8 @@ Includes a private Foundry account/project, private blob container, Windows jump
 box, Azure Bastion, NAT gateway, and private endpoints/DNS. The VM has no public
 IP and uses managed identity for blob access.
 
+To recreate this project with a coding assistant, use the [shareable prompt](PROMPT.md).
+
 ## Deploy
 
 Install [Azure Developer CLI](https://learn.microsoft.com/azure/developer/azure-developer-cli/install-azd)
